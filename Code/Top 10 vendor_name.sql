@@ -1,5 +1,0 @@
-SELECT VendorName, COUNT (VendorID) AS TotalNumber
-FROM Total
-GROUP BY VendorName
-ORDER BY TotalNumber DESC
-FETCH FIRST 10 ROWS ONLY;
