@@ -7,8 +7,7 @@ Oracle SQL
 Kaggle dataset:
 https://www.kaggle.com/datasets/gabrielramos87/iowa-sales-liquor-jan-2021jan-2022
 
-rows: 50,000
-columns: 20
+rows: 50,000 / columns: 20
 
 ## Goal
 Compare the sales of alchol among Iowa liquor stores
